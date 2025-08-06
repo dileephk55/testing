@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.MyClass {
+    background-color: aquamarine;
+}
+#myId{
+    background-color: rgb(16, 189, 202);
+}
+
+.sectiontag{
+    display: flex;
+}
+.formtag{
+    margin: 20px;
+    width: 50%;
+}
+.tabletag {
+    margin: 20px;
+}
+
